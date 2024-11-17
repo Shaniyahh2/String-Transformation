@@ -1,0 +1,1 @@
+The String Case Converter is a simple web application that transforms user-input text into various text cases. Whether you need camel case, uppercase, lowercase, or other formats, this tool will instantly generate the results for you. It's perfect for developers, students, or anyone working with text formatting.
